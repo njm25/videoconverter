@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/videoconverter/static/css/main.afb60f71.css",
+    "main.js": "/videoconverter/static/js/main.e37c116c.js",
+    "static/js/726.8c11f7b5.chunk.js": "/videoconverter/static/js/726.8c11f7b5.chunk.js",
+    "static/js/453.c453a37d.chunk.js": "/videoconverter/static/js/453.c453a37d.chunk.js",
+    "index.html": "/videoconverter/index.html",
+    "main.afb60f71.css.map": "/videoconverter/static/css/main.afb60f71.css.map",
+    "main.e37c116c.js.map": "/videoconverter/static/js/main.e37c116c.js.map",
+    "726.8c11f7b5.chunk.js.map": "/videoconverter/static/js/726.8c11f7b5.chunk.js.map",
+    "453.c453a37d.chunk.js.map": "/videoconverter/static/js/453.c453a37d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afb60f71.css",
+    "static/js/main.e37c116c.js"
+  ]
+}
