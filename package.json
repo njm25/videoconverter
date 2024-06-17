@@ -1,6 +1,7 @@
 {
   "name": "videoconverter",
   "version": "0.1.0",
+  "homepage": "https://nicomilette.github.io/videoconverter",
   "private": true,
   "dependencies": {
     "@ffmpeg/ffmpeg": "^0.12.10",
@@ -9,12 +10,15 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "browserify": "^17.0.0",
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
