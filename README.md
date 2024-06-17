@@ -10,7 +10,7 @@ This is a simple video converter web application built with React and FFmpeg. Th
 
 ## Usage
 
-1. Open the application in your browser.
+1. [Open the application](https://nicomilette.github.io/videoconverter/) in your browser.
 2. Upload a video file by clicking the "Choose File or Drag & Drop" button or dragging and dropping the file into the upload area.
 3. Select the desired output format from the dropdown menu.
 4. Click the "Convert Video" button to start the conversion.
